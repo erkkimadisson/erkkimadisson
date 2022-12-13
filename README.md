@@ -21,4 +21,4 @@ Yes i do take donations... despite being a unknown and beginner developer, I do 
 Why i take them?  
 I take dontaions to support my learning, and skill development purpouses. So I could keep all my projects free for others to use, despite not having any public projects.
 
-[Donation come through Buy me a coffee]()
+[Donation come through Buy me a coffee](https://www.buymeacoffee.com/ErkkiDev "Yeyyy you are at least considering of support :D")
