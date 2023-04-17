@@ -39,7 +39,7 @@ Most of these projects are private and not public in any way at the moment, i st
 
 [erkkimadisson.net]
 
-[alphasnetwork]
+[alphasnetwork.fi]
 
 
 
@@ -57,7 +57,7 @@ Discord: ErkkiDev#6293
 ### Support?
 Yes i do take donations... despite being a unknown and beginner developer, I do take donations.  
 Why i take them?  
-I take dontaions to support my learning, and skill development purpouses. So I could keep all my projects free for others to use, despite not having any public projects.
+I take dontaions to support my learning, and skill development. So I could keep all my projects free for others to use, despite not having a lot of public projects.
 
 [Donation come through Buy me a coffee](https://www.buymeacoffee.com/ErkkiDev "Yeyyy you are at least considering of support :D")
 
@@ -66,4 +66,4 @@ I take dontaions to support my learning, and skill development purpouses. So I c
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 [erkkimadisson5@gmail.com]: mailto:erkkimadisson5@gmail.com
 [erkkimadisson.net]: https://erkkimadisson.net
-[alphasnetwork]: https://alphasnetwork.fi
+[alphasnetwork.fi]: https://alphasnetwork.fi
