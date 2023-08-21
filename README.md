@@ -20,8 +20,9 @@ I am currently studing IT at Helsinki's vocational and adult collage, I have bee
 
 | Language | Since |
 |:--------:|:-----:|
-|  GO      |  18th of April |
+|  GO      |  2023 |
 | GIT | 2022 |
+| React.JS | 2022 |
 
 ---
 ### On Going Projects
@@ -30,6 +31,10 @@ I am currently studing IT at Helsinki's vocational and adult collage, I have bee
   - A community server deployment and managment, project to learn and test community and server managment.
 - Minecraft x Discord integration
   - Series of discord bots that allows to operate and oversee minecraft server's whitelist, status, and more to come.
+- [Urapolku.fi]
+  - Urapolku is a job search platform that offers you a fast and efficient way to find jobs that suit you. This project is based in finland, and is heavily work in progress.
+- Tietokettu
+  - Part of the Staff (intern) team of Tietokettu. Tietokettu is a server hosting provider based in finland. [tietokettu.net]
 
 
 Most of these projects are private and not public in any way at the moment, i still develop and open the successful projects to the public use.
@@ -67,3 +72,5 @@ I take dontaions to support my learning, and skill development. So I could keep 
 [erkkimadisson5@gmail.com]: mailto:erkkimadisson5@gmail.com
 [erkkimadisson.net]: https://erkkimadisson.net
 [alphasnetwork.fi]: https://alphasnetwork.fi
+[Urapolku.fi]: https://urapolku.fi
+[tietokettu.net]: https://tietokettu.net
