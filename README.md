@@ -27,12 +27,8 @@ I am currently studing IT at Helsinki's vocational and adult collage, I have bee
 ---
 ### On Going Projects
 
-- Alphas
-  - A community server deployment and managment, project to learn and test community and server managment.
 - Minecraft x Discord integration
-  - Series of discord bots that allows to operate and oversee minecraft server's whitelist, status, and more to come.
-- [Urapolku.fi]
-  - Urapolku is a job search platform that offers you a fast and efficient way to find jobs that suit you. This project is based in finland, and is heavily work in progress.
+  - Series of discord bots that allows to operate and oversee minecraft server's whitelist, status, and more to come. **On Pause**
 - Tietokettu
   - Part of the Staff (intern) team of Tietokettu. Tietokettu is a server hosting provider based in finland. [tietokettu.net]
 
@@ -42,9 +38,8 @@ Most of these projects are private and not public in any way at the moment, i st
 ---
 ### Links
 
-[erkkimadisson.net]
+[erkkidev.fi]
 
-[alphasnetwork.fi]
 
 
 
@@ -53,7 +48,7 @@ Most of these projects are private and not public in any way at the moment, i st
 
 Email: [erkkimadisson5@gmail.com]
 
-Discord: ErkkiDev#6293
+Discord: @erkkidev
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkkimadisson&show_icons=true)
@@ -70,7 +65,5 @@ I take dontaions to support my learning, and skill development. So I could keep 
 
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 [erkkimadisson5@gmail.com]: mailto:erkkimadisson5@gmail.com
-[erkkimadisson.net]: https://erkkimadisson.net
-[alphasnetwork.fi]: https://alphasnetwork.fi
-[Urapolku.fi]: https://urapolku.fi
+[erkkidev.fi]: https://erkkidev.fi
 [tietokettu.net]: https://tietokettu.net
