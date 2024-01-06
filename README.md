@@ -1,69 +1,44 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=erkkimadisson)
+Hi 👋 My name is Erkki Madisson
+===============================
 
----
+Student | IT Enthusiast | Photographer
+--------------------------------------
 
-### Who am I?
-I am ErkkiDev also know as Erkki Madisson.
-I am a young man who is interested about development and programming, I mainly code in node.js and I have been learning java for the past few months.
-I am currently studing IT at Helsinki's vocational and adult collage, I have been learing about programmin for the past since year 2020.
+a young IT enhusiast for the past 5 years
 
----
-### Programming skills
+* 🌍  I'm based in Helsinki | Finland
+* 🖥️  See my portfolio at [ME](http://erkkidev.fi)
+* ✉️  You can contact me at [erkkimadisson5@gmail.com](mailto:erkkimadisson5@gmail.com)
+* 🧠  I'm learning Server management and some programming.
+* 🤝  I'm open to collaborating on any interesting projects that require server management and supports open source projects.
 
-| Language | Since |
-|:--------:|:-----:|
-|  Node.js |  2020 |
-| HTML     | 2020  |
-| CSS      | 2020  |
+<a href="https://www.twitch.tv/ekkidev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/ekkidev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-#### Learning
-
-| Language | Since |
-|:--------:|:-----:|
-|  GO      |  2023 |
-| GIT | 2022 |
-| React.JS | 2022 |
-
----
-### On Going Projects
-
-- Minecraft x Discord integration
-  - Series of discord bots that allows to operate and oversee minecraft server's whitelist, status, and more to come. **On Pause**
-- Tietokettu
-  - Part of the Staff (intern) team of Tietokettu. Tietokettu is a server hosting provider based in finland. [tietokettu.net]
+### Skills
 
 
-Most of these projects are private and not public in any way at the moment, i still develop and open the successful projects to the public use.
-
----
-### Links
-
-[erkkidev.fi]
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
 
 
+### Socials
 
+<p align="left"> <a href="https://discord.com/users/erkkidev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/erkkimadisson" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/ekkidev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
----
-### Contact
+### Badges
 
-Email: [erkkimadisson5@gmail.com]
+<b>My GitHub Stats</b>
 
-Discord: @erkkidev
+<a href="http://www.github.com/erkkimadisson"><img src="https://github-readme-stats.vercel.app/api?username=erkkimadisson&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erkkimadisson's GitHub stats" /></a>
 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkkimadisson&show_icons=true)
-> Statistics provided by [`GitHub Readme Stats`]
----
-### Support?
-Yes i do take donations... despite being a unknown and beginner developer, I do take donations.  
-Why i take them?  
-I take dontaions to support my learning, and skill development. So I could keep all my projects free for others to use, despite not having a lot of public projects.
+<a href="https://github.com/erkkimadisson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkkimadisson&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[Donation come through Buy me a coffee](https://www.buymeacoffee.com/ErkkiDev "Yeyyy you are at least considering of support :D")
+### Support Me
 
+<ul style="list-style-type: none; margin: 0;">
 
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/erkkidev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
-[erkkimadisson5@gmail.com]: mailto:erkkimadisson5@gmail.com
-[erkkidev.fi]: https://erkkidev.fi
-[tietokettu.net]: https://tietokettu.net
+</ul>
