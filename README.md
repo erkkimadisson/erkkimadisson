@@ -12,8 +12,8 @@ a young IT enhusiast for the past 5 years
 * 🧠  I'm learning Server management and some programming.
 * 🤝  I'm open to collaborating on any interesting projects that require server management and supports open source projects.
 
-<a href="https://www.twitch.tv/ekkidev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/ekkidev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.twitch.tv/erkkidev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/erkkidev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
