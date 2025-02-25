@@ -4,7 +4,7 @@ Hi 👋 My name is Erkki Madisson
 Student | IT Enthusiast | Photographer
 --------------------------------------
 
-a young IT enhusiast for the past 5 years
+a young IT enhusiast for the past 7 years
 
 * 🌍  I'm based in Helsinki | Finland
 * 🖥️  See my portfolio at [ME](http://erkkidev.fi)
